@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Final_Project.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Final_Project.Controllers;
 
@@ -13,6 +14,8 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    [Authorize]
+    [AllowAnonymous]
     public IActionResult Index()
     {
         return View();

@@ -262,3 +262,4 @@ D:\ITStep Project\Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microso
 D:\ITStep Project\Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ITStep Project\Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\ITStep Project\Final Project\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ITStep Project\Final Project\obj\Debug\net8.0\Final Project.sourcelink.json

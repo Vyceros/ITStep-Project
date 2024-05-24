@@ -11,7 +11,6 @@
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="Jwt" Version="10.1.1" />
     <PackageReference Include="Microsoft.Aspnetcore.Authentication.Jwtbearer" Version="8.0.5" />
-    <PackageReference Include="Microsoft.Aspnetcore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.Aspnetcore.Identity.Entityframeworkcore" Version="8.0.5" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.5" />
